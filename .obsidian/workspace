@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "34221c4dca861c2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9a4084efa6b76c3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "每日复盘-20210504.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e961a203a3716fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9f35783249f63de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fea34d778284484",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f71698ce94511ccf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "639b9468d6562a04",
+    "type": "split",
+    "children": [
+      {
+        "id": "f728be82bfe1ffcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "751e3eb610610fc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "每日复盘-20210504.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b9a4084efa6b76c3",
+  "lastOpenFiles": [
+    "每日复盘-20210504.md",
+    "成功的不可控性.md",
+    "不给自己设限.md",
+    "如何找到自己爱做的事，并发展出一份事业？.md",
+    "提升认知的两个办法.md",
+    "遇到不确定的事情别瞎猜，直接去求证.md",
+    "赚钱模式.md",
+    "每日复盘-模板.md",
+    "Untitled.md",
+    "Untitled 1.md"
+  ]
+}
