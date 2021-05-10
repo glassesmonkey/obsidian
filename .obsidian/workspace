@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "写作的好处.md",
+            "file": "上班要拼命吗？.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "写作的好处.md",
+                "file": "上班要拼命吗？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "34abf3864de35b53",
   "lastOpenFiles": [
+    "上班要拼命吗？.md",
+    "改变别人很难，把人放在适合他们的位子上更好.md",
     "写作的好处.md",
     "每日复盘-20210507.md",
     "结合实际场景谈谈利他主义.md",
@@ -95,8 +97,6 @@
     "Untitled.md",
     "每日复盘-20210506.md",
     "每日复盘-20210504.md",
-    "每日复盘-20210503.md",
-    "先利他，后利己.md",
-    "遇到不确定的事情别瞎猜，直接去求证.md"
+    "每日复盘-20210503.md"
   ]
 }
