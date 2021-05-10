@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "34221c4dca861c2a",
+    "id": "5cef29beac97469f",
     "type": "split",
     "children": [
       {
-        "id": "b9a4084efa6b76c3",
+        "id": "34abf3864de35b53",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "每日复盘-20210504.md",
+            "file": "写作的好处.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4e961a203a3716fd",
+    "id": "bec1653e1c8c84ac",
     "type": "split",
     "children": [
       {
-        "id": "a9f35783249f63de",
+        "id": "f3ba3d950bee3e55",
         "type": "tabs",
         "children": [
           {
-            "id": "8fea34d778284484",
+            "id": "98e83163fdcc056d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "f71698ce94511ccf",
+            "id": "178c5819e5ada7b5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,23 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354
   },
   "right": {
-    "id": "639b9468d6562a04",
+    "id": "95b37546cfe6594f",
     "type": "split",
     "children": [
       {
-        "id": "f728be82bfe1ffcc",
+        "id": "245a5a041a536d1f",
         "type": "tabs",
         "children": [
           {
-            "id": "751e3eb610610fc5",
+            "id": "a67b01929ecf99a3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日复盘-20210504.md",
+                "file": "写作的好处.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9a4084efa6b76c3",
+  "active": "34abf3864de35b53",
   "lastOpenFiles": [
-    "每日复盘-20210504.md",
-    "成功的不可控性.md",
-    "不给自己设限.md",
-    "如何找到自己爱做的事，并发展出一份事业？.md",
-    "提升认知的两个办法.md",
-    "遇到不确定的事情别瞎猜，直接去求证.md",
-    "赚钱模式.md",
+    "写作的好处.md",
+    "每日复盘-20210507.md",
+    "结合实际场景谈谈利他主义.md",
     "每日复盘-模板.md",
     "Untitled.md",
-    "Untitled 1.md"
+    "每日复盘-20210506.md",
+    "每日复盘-20210504.md",
+    "每日复盘-20210503.md",
+    "先利他，后利己.md",
+    "遇到不确定的事情别瞎猜，直接去求证.md"
   ]
 }
