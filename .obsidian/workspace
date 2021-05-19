@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不给自己设限.md",
+            "file": "成功的不可控性.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不给自己设限.md",
+                "file": "成功的不可控性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "34abf3864de35b53",
   "lastOpenFiles": [
+    "成功的不可控性.md",
     "不给自己设限.md",
     "鸡汤文的套路.md",
     "Untitled.md",
@@ -96,7 +97,6 @@
     "每日复盘-模板.md",
     "想明白这点，心里会舒服很多.md",
     "每日复盘-20210510.md",
-    "阶段性冲刺.md",
-    "上班要拼命吗？.md"
+    "阶段性冲刺.md"
   ]
 }
